@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Kana ID="1">
+	<row>1</row><col>1</col>
+	<Type>base</Type>
+	<Char>ア</Char>
+	<Sound>a</Sound>
+</Kana>
+<Kana ID="2">
+	<row>1</row><col>2</col>
+	<Type>base</Type>
+	<Char>イ</Char>
+	<Sound>i</Sound>
+</Kana>
+<Kana ID="3">
+	<row>1</row><col>3</col>
+	<Type>base</Type>
+	<Char>ウ</Char>
+	<Sound>u</Sound>
+</Kana>
+<Kana ID="4">
+	<row>1</row><col>4</col>
+	<Type>base</Type>
+	<Char>エ</Char>
+	<Sound>e</Sound>
+</Kana>
+<Kana ID="5">
+	<row>1</row><col>5</col>
+	<Type>base</Type>
+	<Char>オ</Char>
+	<Sound>o</Sound>
+</Kana>
+<Kana ID="6">
+	<row>2</row><col>1</col>
+	<Type>base</Type>
+	<Char>カ</Char>
+	<Sound>ka</Sound>
+</Kana>
+<Kana ID="7">
+	<row>2</row><col>2</col>
+	<Type>base</Type>
+	<Char>キ</Char>
+	<Sound>ki</Sound>
+</Kana>
+<Kana ID="8">
+	<row>2</row><col>3</col>
+	<Type>base</Type>
+	<Char>ク</Char>
+	<Sound>ku</Sound>
+</Kana>
+<Kana ID="9">
+	<row>2</row><col>4</col>
+	<Type>base</Type>
+	<Char>ケ</Char>
+	<Sound>ke</Sound>
+</Kana>
+<Kana ID="10">
+	<row>2</row><col>5</col>
+	<Type>base</Type>
+	<Char>コ</Char>
+	<Sound>ko</Sound>
+</Kana>
+<Kana ID="11">
+	<row>3</row><col>1</col>
+	<Type>dakuten</Type>
+	<Char>ガ</Char>
+	<Sound>ga</Sound>
+</Kana>
+<Kana ID="12">
+	<row>3</row><col>2</col>
+	<Type>dakuten</Type>
+	<Char>ギ</Char>
+	<Sound>gi</Sound>
+</Kana>
+<Kana ID="13">
+	<row>3</row><col>3</col>
+	<Type>dakuten</Type>
+	<Char>グ</Char>
+	<Sound>gu</Sound>
+</Kana>
+<Kana ID="14">
+	<row>3</row><col>4</col>
+	<Type>dakuten</Type>
+	<Char>ゲ</Char>
+	<Sound>ge</Sound>
+</Kana>
+<Kana ID="15">
+	<row>3</row><col>5</col>
+	<Type>dakuten</Type>
+	<Char>ゴ</Char>
+	<Sound>go</Sound>
+</Kana>
+<Kana ID="16">
+	<row>4</row><col>1</col>
+	<Type>base</Type>
+	<Char>サ</Char>
+	<Sound>sa</Sound>
+</Kana>
+<Kana ID="17">
+	<row>4</row><col>2</col>
+	<Type>base</Type>
+	<Char>シ</Char>
+	<Sound>shi</Sound>
+</Kana>
+<Kana ID="18">
+	<row>4</row><col>3</col>
+	<Type>base</Type>
+	<Char>ス</Char>
+	<Sound>su</Sound>
+</Kana>
+<Kana ID="19">
+	<row>4</row><col>4</col>
+	<Type>base</Type>
+	<Char>セ</Char>
+	<Sound>se</Sound>
+</Kana>
+<Kana ID="20">
+	<row>4</row><col>5</col>
+	<Type>base</Type>
+	<Char>ソ</Char>
+	<Sound>so</Sound>
+</Kana>
+<Kana ID="21">
+	<row>5</row><col>1</col>
+	<Type>dakuten</Type>
+	<Char>ザ</Char>
+	<Sound>za</Sound>
+</Kana>
+<Kana ID="22">
+	<row>5</row><col>2</col>
+	<Type>dakuten</Type>
+	<Char>ジ</Char>
+	<Sound>ji</Sound>
+</Kana>
+<Kana ID="23">
+	<row>5</row><col>3</col>
+	<Type>dakuten</Type>
+	<Char>ズ</Char>
+	<Sound>zu</Sound>
+</Kana>
+<Kana ID="24">
+	<row>5</row><col>4</col>
+	<Type>dakuten</Type>
+	<Char>ゼ</Char>
+	<Sound>ze</Sound>
+</Kana>
+<Kana ID="25">
+	<row>5</row><col>5</col>
+	<Type>dakuten</Type>
+	<Char>ゾ</Char>
+	<Sound>zo</Sound>
+</Kana>
+<Kana ID="26">
+	<row>6</row><col>1</col>
+	<Type>base</Type>
+	<Char>タ</Char>
+	<Sound>ta</Sound>
+</Kana>
+<Kana ID="27">
+	<row>6</row><col>2</col>
+	<Type>base</Type>
+	<Char>チ</Char>
+	<Sound>chi</Sound>
+</Kana>
+<Kana ID="28">
+	<row>6</row><col>3</col>
+	<Type>base</Type>
+	<Char>ツ</Char>
+	<Sound>tsu</Sound>
+</Kana>
+<Kana ID="29">
+	<row>6</row><col>4</col>
+	<Type>base</Type>
+	<Char>テ</Char>
+	<Sound>te</Sound>
+</Kana>
+<Kana ID="30">
+	<row>6</row><col>5</col>
+	<Type>base</Type>
+	<Char>ト</Char>
+	<Sound>to</Sound>
+</Kana>
+<Kana ID="31">
+	<row>7</row><col>1</col>
+	<Type>dakuten</Type>
+	<Char>ダ</Char>
+	<Sound>da</Sound>
+</Kana>
+<Kana ID="32">
+	<row>7</row><col>2</col>
+	<Type>dakuten</Type>
+	<Char>ヂ</Char>
+	<Sound>undef</Sound>
+</Kana>
+<Kana ID="33">
+	<row>7</row><col>3</col>
+	<Type>dakuten</Type>
+	<Char>ヅ</Char>
+	<Sound>undef</Sound>
+</Kana>
+<Kana ID="34">
+	<row>7</row><col>4</col>
+	<Type>dakuten</Type>
+	<Char>デ</Char>
+	<Sound>de</Sound>
+</Kana>
+<Kana ID="35">
+	<row>7</row><col>5</col>
+	<Type>dakuten</Type>
+	<Char>ド</Char>
+	<Sound>do</Sound>
+</Kana>
+<Kana ID="36">
+	<row>8</row><col>1</col>
+	<Type>base</Type>
+	<Char>ナ</Char>
+	<Sound>na</Sound>
+</Kana>
+<Kana ID="37">
+	<row>8</row><col>2</col>
+	<Type>base</Type>
+	<Char>ニ</Char>
+	<Sound>ni</Sound>
+</Kana>
+<Kana ID="38">
+	<row>8</row><col>3</col>
+	<Type>base</Type>
+	<Char>ヌ</Char>
+	<Sound>nu</Sound>
+</Kana>
+<Kana ID="39">
+	<row>8</row><col>4</col>
+	<Type>base</Type>
+	<Char>ネ</Char>
+	<Sound>ne</Sound>
+</Kana>
+<Kana ID="40">
+	<row>8</row><col>5</col>
+	<Type>base</Type>
+	<Char>ノ</Char>
+	<Sound>no</Sound>
+</Kana>
+<Kana ID="46">
+	<row>9</row><col>1</col>
+	<Type>base</Type>
+	<Char>ハ</Char>
+	<Sound>ha</Sound>
+</Kana>
+<Kana ID="47">
+	<row>9</row><col>2</col>
+	<Type>base</Type>
+	<Char>ヒ</Char>
+	<Sound>hi</Sound>
+</Kana>
+<Kana ID="48">
+	<row>9</row><col>3</col>
+	<Type>base</Type>
+	<Char>フ</Char>
+	<Sound>fu</Sound>
+</Kana>
+<Kana ID="49">
+	<row>9</row><col>4</col>
+	<Type>base</Type>
+	<Char>ヘ</Char>
+	<Sound>he</Sound>
+</Kana>
+<Kana ID="50">
+	<row>9</row><col>5</col>
+	<Type>base</Type>
+	<Char>ホ</Char>
+	<Sound>ho</Sound>
+</Kana>
+<Kana ID="51">
+	<row>10</row><col>1</col>
+	<Type>dakuten</Type>
+	<Char>バ</Char>
+	<Sound>ba</Sound>
+</Kana>
+<Kana ID="52">
+	<row>10</row><col>2</col>
+	<Type>dakuten</Type>
+	<Char>ビ</Char>
+	<Sound>bi</Sound>
+</Kana>
+<Kana ID="53">
+	<row>10</row><col>3</col>
+	<Type>dakuten</Type>
+	<Char>ブ</Char>
+	<Sound>bu</Sound>
+</Kana>
+<Kana ID="54">
+	<row>10</row><col>4</col>
+	<Type>dakuten</Type>
+	<Char>ベ</Char>
+	<Sound>be</Sound>
+</Kana>
+<Kana ID="55">
+	<row>10</row><col>5</col>
+	<Type>dakuten</Type>
+	<Char>ボ</Char>
+	<Sound>bo</Sound>
+</Kana>
+<Kana ID="56">
+	<row>11</row><col>1</col>
+	<Type>dakuten</Type>
+	<Char>パ</Char>
+	<Sound>pa</Sound>
+</Kana>
+<Kana ID="57">
+	<row>11</row><col>2</col>
+	<Type>dakuten</Type>
+	<Char>ピ</Char>
+	<Sound>pi</Sound>
+</Kana>
+<Kana ID="58">
+	<row>11</row><col>3</col>
+	<Type>dakuten</Type>
+	<Char>プ</Char>
+	<Sound>pu</Sound>
+</Kana>
+<Kana ID="59">
+	<row>11</row><col>4</col>
+	<Type>dakuten</Type>
+	<Char>ペ</Char>
+	<Sound>pe</Sound>
+</Kana>
+<Kana ID="60">
+	<row>11</row><col>5</col>
+	<Type>dakuten</Type>
+	<Char>ポ</Char>
+	<Sound>po</Sound>
+</Kana>
+<Kana ID="61">
+	<row>12</row><col>1</col>
+	<Type>base</Type>
+	<Char>マ</Char>
+	<Sound>ma</Sound>
+</Kana>
+<Kana ID="62">
+	<row>12</row><col>2</col>
+	<Type>base</Type>
+	<Char>ミ</Char>
+	<Sound>mi</Sound>
+</Kana>
+<Kana ID="63">
+	<row>12</row><col>3</col>
+	<Type>base</Type>
+	<Char>ム</Char>
+	<Sound>mu</Sound>
+</Kana>
+<Kana ID="64">
+	<row>12</row><col>4</col>
+	<Type>base</Type>
+	<Char>メ</Char>
+	<Sound>me</Sound>
+</Kana>
+<Kana ID="65">
+	<row>12</row><col>5</col>
+	<Type>base</Type>
+	<Char>モ</Char>
+	<Sound>mo</Sound>
+</Kana>
+<Kana ID="66">
+	<row>13</row><col>1</col>
+	<Type>base</Type>
+	<Char>ヤ</Char>
+	<Sound>ya</Sound>
+</Kana>
+<Kana ID="67">
+	<row>13</row><col>3</col>
+	<Type>base</Type>
+	<Char>ユ</Char>
+	<Sound>yu</Sound>
+</Kana>
+<Kana ID="68">
+	<row>13</row><col>5</col>
+	<Type>base</Type>
+	<Char>ヨ</Char>
+	<Sound>yo</Sound>
+</Kana>
+<Kana ID="69">
+	<row>14</row><col>1</col>
+	<Type>base</Type>
+	<Char>ラ</Char>
+	<Sound>ra</Sound>
+</Kana>
+<Kana ID="70">
+	<row>14</row><col>2</col>
+	<Type>base</Type>
+	<Char>リ</Char>
+	<Sound>ri</Sound>
+</Kana>
+<Kana ID="71">
+	<row>14</row><col>3</col>
+	<Type>base</Type>
+	<Char>ル</Char>
+	<Sound>ru</Sound>
+</Kana>
+<Kana ID="72">
+	<row>14</row><col>4</col>
+	<Type>base</Type>
+	<Char>レ</Char>
+	<Sound>re</Sound>
+</Kana>
+<Kana ID="73">
+	<row>14</row><col>5</col>
+	<Type>base</Type>
+	<Char>ロ</Char>
+	<Sound>ro</Sound>
+</Kana>
+<Kana ID="74">
+	<row>15</row><col>1</col>
+	<Type>base</Type>
+	<Char>ワ</Char>
+	<Sound>wa</Sound>
+</Kana>
+<Kana ID="75">
+	<row>15</row><col>5</col>
+	<Type>base</Type>
+	<Char>ヲ</Char>
+	<Sound ID="1">wo</Sound>
+	<Sound ID="2">o</Sound>
+</Kana>
+<Kana ID="76">
+	<row>16</row><col>1</col>
+	<Type>base</Type>
+	<Char>ン</Char>
+	<Sound>n</Sound>
+</Kana>
+<Extra ID="1">
+	<Char>ッ</Char>
+	<desc>m_tsu</desc>
+</Extra>
+<Extra ID="2">
+	<Char>ー</Char>
+	<desc>ext</desc>
+</Extra>
+<Extra ID="3">
+	<Char>ァ</Char>
+	<desc>m_a</desc>
+</Extra>
+<Extra ID="4">
+	<Char>ィ</Char>
+	<desc>m_i</desc>
+</Extra>
+<Extra ID="5">
+	<Char>ゥ</Char>
+	<desc>m_u</desc>
+</Extra>
+<Extra ID="6">
+	<Char>ェ</Char>
+	<desc>m_e</desc>
+</Extra>
+<Extra ID="7">
+	<Char>ォ</Char>
+	<desc>m_o</desc>
+</Extra>
+<Youo ID="1">
+	<Base>7</Base>
+	<Char>キャ</Char>
+	<Sound>kya</Sound>
+</Youo>
+<Youo ID="2">
+	<Base>7</Base>
+	<Char>キュ</Char>
+	<Sound>kyu</Sound>
+</Youo>
+<Youo ID="3">
+	<Base>7</Base>
+	<Char>キョ</Char>
+	<Sound>kyo</Sound>
+</Youo>
+<Youo ID="4">
+	<Base>12</Base>
+	<Char>ギャ</Char>
+	<Sound>gya</Sound>
+</Youo>
+<Youo ID="5">
+	<Base>12</Base>
+	<Char>ギュ</Char>
+	<Sound>gyu</Sound>
+</Youo>
+<Youo ID="6">
+	<Base>12</Base>
+	<Char>ギョ</Char>
+	<Sound>gyo</Sound>
+</Youo>
+<Youo ID="7">
+	<Base>17</Base>
+	<Char>シャ</Char>
+	<Sound>sha</Sound>
+</Youo>
+<Youo ID="8">
+	<Base>17</Base>
+	<Char>シュ</Char>
+	<Sound>shu</Sound>
+</Youo>
+<Youo ID="9">
+	<Base>17</Base>
+	<Char>ショ</Char>
+	<Sound>sho</Sound>
+</Youo>
+<Youo ID="10">
+	<Base>22</Base>
+	<Char>ジャ</Char>
+	<Sound>ja</Sound>
+</Youo>
+<Youo ID="11">
+	<Base>22</Base>
+	<Char>ジュ</Char>
+	<Sound>ju</Sound>
+</Youo>
+<Youo ID="12">
+	<Base>22</Base>
+	<Char>ジョ</Char>
+	<Sound>jo</Sound>
+</Youo>
+<Youo ID="13">
+	<Base>27</Base>
+	<Char>チャ</Char>
+	<Sound>cha</Sound>
+</Youo>
+<Youo ID="14">
+	<Base>27</Base>
+	<Char>チュ</Char>
+	<Sound>chu</Sound>
+</Youo>
+<Youo ID="15">
+	<Base>27</Base>
+	<Char>チョ</Char>
+	<Sound>cho</Sound>
+</Youo>
+<Youo ID="16">
+	<Base>37</Base>
+	<Char>ニャ</Char>
+	<Sound>nya</Sound>
+</Youo>
+<Youo ID="17">
+	<Base>37</Base>
+	<Char>ニュ</Char>
+	<Sound>nyu</Sound>
+</Youo>
+<Youo ID="18">
+	<Base>37</Base>
+	<Char>ニョ</Char>
+	<Sound>nyo</Sound>
+</Youo>
+<Youo ID="19">
+	<Base>47</Base>
+	<Char>ヒャ</Char>
+	<Sound>hya</Sound>
+</Youo>
+<Youo ID="20">
+	<Base>47</Base>
+	<Char>ヒュ</Char>
+	<Sound>hyu</Sound>
+</Youo>
+<Youo ID="21">
+	<Base>47</Base>
+	<Char>ヒョ</Char>
+	<Sound>hyo</Sound>
+</Youo>
+<Youo ID="22">
+	<Base>47</Base>
+	<Char>ビャ</Char>
+	<Sound>bya</Sound>
+</Youo>
+<Youo ID="23">
+	<Base>47</Base>
+	<Char>ビュ</Char>
+	<Sound>byu</Sound>
+</Youo>
+<Youo ID="24">
+	<Base>47</Base>
+	<Char>ビョ</Char>
+	<Sound>byo</Sound>
+</Youo>
+<Youo ID="25">
+	<Base>47</Base>
+	<Char>ピャ </Char>
+	<Sound>pya</Sound>
+</Youo>
+<Youo ID="26">
+	<Base>47</Base>
+	<Char>ピュ</Char>
+	<Sound>pyu</Sound>
+</Youo>
+<Youo ID="27">
+	<Base>47</Base>
+	<Char>ピョ</Char>
+	<Sound>pyo</Sound>
+</Youo>
+<Youo ID="28">
+	<Base>62</Base>
+	<Char>ミャ</Char>
+	<Sound>mya</Sound>
+</Youo>
+<Youo ID="29">
+	<Base>62</Base>
+	<Char>ミュ</Char>
+	<Sound>myu</Sound>
+</Youo>
+<Youo ID="30">
+	<Base>62</Base>
+	<Char>ミョ</Char>
+	<Sound>myo</Sound>
+</Youo>
+<Youo ID="31">
+	<Base>62</Base>
+	<Char>リャ</Char>
+	<Sound>rya</Sound>
+</Youo>
+<Youo ID="32">
+	<Base>62</Base>
+	<Char>リュ</Char>
+	<Sound>ryu</Sound>
+</Youo>
+<Youo ID="33">
+	<Base>62</Base>
+	<Char>リョ</Char>
+	<Sound>ryo</Sound>
+</Youo>
